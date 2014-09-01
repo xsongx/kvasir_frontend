@@ -1,0 +1,48 @@
+
+.icn_nav {
+    font-size: 13px;
+}
+
+#icn_home_btn {
+    font-size: inherit;
+}
+
+#icn_ticker_tape {
+    font-size: inherit;
+}
+
+#icn_pad div {
+    font-size: 13px;
+}
+
+#icn_pad a {
+    font-size: inherit;
+}
+
+#icn_txtpad div {
+    font-size: 12px;
+}
+
+#icn_txtpad a {
+    font-size: inherit;
+}
+
+#icn_txtpad .ui.circular.label {
+    margin-right: 10px;
+}
+
+#icn_ext_nav a:link {
+    text-decoration: none;
+}
+
+#icn_ext_nav a:hover {
+    text-decoration: none;
+}
+
+#icn_ext_pad a:link {
+    text-decoration: none;
+}
+
+#icn_ext_pad a:hover {
+    text-decoration: none;
+}
